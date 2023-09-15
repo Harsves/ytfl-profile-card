@@ -1,0 +1,28 @@
+{
+  "id": "profilepicture",
+  "label": "ProfilePicture",
+  "format": "custom",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "config": {
+          "label": "UID"
+        },
+        "type": "UID"
+      },
+      "profilepicture": {
+        "type": "Image",
+        "config": {
+          "label": "ProfilePicture",
+          "constraint": {
+            "width": null,
+            "height": null
+          },
+          "thumbnails": []
+        }
+      }
+    }
+  }
+}
