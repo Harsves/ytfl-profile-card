@@ -1,38 +1,35 @@
-# create-svelte
+# Titel
+Profile card met Sveltekit
+<img width="1680" alt="Schermafbeelding 2023-09-21 om 10 52 53" src="https://github.com/Harsves/ytfl-profile-card/assets/112931845/5ad74488-84b3-4116-8683-8986ee4be026">
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## Inhoudsopgave
 
-## Creating a project
+  * [Beschrijving](#beschrijving)
+  * [Kenmerken](#kenmerken)
+  * [Installatie](#installatie)
+  * [Gebruik](#gebruik)
+  * [Bronnen](#bronnen)
+  * [Licentie](#licentie)
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Beschrijving
+De profilecard heeft een link naar mijn github, zodat als je doorgelinkt bent vanaf een squadpage dat je dan naar mijn github kan.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Kenmerken
+**Gebruikte tools**
+  * Figma
+  * VS Code
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+**Gebruikte techniek**
+  * HTML
+  * CSS
+  * Sveltekit
+  * Prismic
 
-## Developing
+## Installatie
+Open de code in je code editor en run de terminal. Type in je terminal npm install. Nu is de code klaar om te gebruiken
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Licentie
 
-```bash
-npm run dev
+![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+This work is licensed under [GNU GPLv3](./LICENSE).
