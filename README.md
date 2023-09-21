@@ -1,5 +1,4 @@
-# Titel
-Profile card met Sveltekit
+# Profile card met Sveltekit
 <img width="1680" alt="Schermafbeelding 2023-09-21 om 10 52 53" src="https://github.com/Harsves/ytfl-profile-card/assets/112931845/5ad74488-84b3-4116-8683-8986ee4be026">
 
 ## Inhoudsopgave
