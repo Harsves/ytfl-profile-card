@@ -7,8 +7,6 @@ Profile card met Sveltekit
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
 ## Beschrijving
